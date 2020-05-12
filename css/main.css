@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body {
+    height: 100vh;
+
+}
+
+body {
+    background:  url("../images/janko-ferlic-sfL_QOnmy00-unsplash.jpg")  no-repeat center;
+    background-size: cover;
+}
+
+.mr-3 {
+    font-size: 18px;
+}
